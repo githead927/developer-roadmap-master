@@ -135,22 +135,4 @@ Note: use the `depth` parameter to reduce the clone size and speed up the clone.
 git clone --depth=1 https://github.com/kamranahmedse/developer-roadmap.git
 ```
 
-## Contribution
 
-> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
-
-- Add content to roadmaps
-- Add new roadmaps
-- Suggest changes to existing roadmaps
-- Discuss ideas in issues
-- Spread the word
-
-## Thanks to all contributors ❤
-
- <a href = "https://github.com/kamranahmedse/developer-roadmap/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=kamranahmedse/developer-roadmap"/>
- </a>
-
-## License
-
-Have a look at the [license file](./license) for details
